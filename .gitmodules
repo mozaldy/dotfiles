@@ -1,3 +1,6 @@
 [submodule "nvim"]
 	path = nvim
 	url = https://github.com/mozaldy/nvim
+[submodule ".oh-my-zsh"]
+	path = .oh-my-zsh
+	url = https://github.com/mozaldy/ohmyzsh
