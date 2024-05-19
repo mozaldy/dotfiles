@@ -1,9 +1,0 @@
-2024-05-14 18:25:17.140 [info] Extension host with pid 4749 started
-2024-05-14 18:25:17.140 [info] Skipping acquiring lock for /home/mozaldy/.config/Code - OSS/User/workspaceStorage/abcf03d567fcd47ac644fa8881a9c80c.
-2024-05-14 18:25:17.188 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
-2024-05-14 18:25:17.201 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
-2024-05-14 18:25:17.246 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
-2024-05-14 18:25:17.316 [info] Eager extensions activated
-2024-05-14 18:25:17.350 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
-2024-05-14 18:25:17.356 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
-2024-05-14 18:25:21.628 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'

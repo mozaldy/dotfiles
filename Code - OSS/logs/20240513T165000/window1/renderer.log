@@ -1,5 +1,0 @@
-2024-05-13 16:50:07.873 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/srv/http/kuliah/week10/admin/data_penyimpanan.php","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
-2024-05-13 16:50:09.231 [info] Started local extension host with pid 3683.
-2024-05-13 16:50:12.553 [info] [perf] Render performance baseline is 68ms
-2024-05-13 16:50:55.798 [info] Started local extension host with pid 3789.
-2024-05-13 16:50:59.313 [info] [perf] Render performance baseline is 38ms
