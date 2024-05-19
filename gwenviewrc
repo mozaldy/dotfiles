@@ -1,0 +1,15 @@
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/logh.jpg
+File2[$e]=$HOME/Downloads/lain.webp
+Name1[$e]=logh.jpg
+Name2[$e]=lain.webp
+
+[SideBar]
+InformationSplitterSizes=211,244

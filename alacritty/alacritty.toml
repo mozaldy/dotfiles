@@ -1,0 +1,19 @@
+import = [
+    # "~/.config/alacritty/themes/tokyo-night-storm.toml"
+    "~/.config/alacritty/themes/tokyo-night.toml"
+]
+
+
+[env]
+TERM = "alacritty"
+LANG = "en_US.UTF-8"
+
+[window]
+decorations = "transparent"
+dynamic_title = true
+opacity = 0.7
+blur = true
+# startup_mode = "FullScreen"
+# decorations_theme_variant = "Dark" # "Light"
+# padding = { x = 10, y = 10 }
+

@@ -1,0 +1,16 @@
+[General]
+clipboardGroup=PostScreenshotCopyImage
+launchAction=UseLastUsedCapturemode
+rememberSelectionRect=Never
+showCaptureInstructions=false
+useReleaseToCapture=true
+
+[GuiConfig]
+captureMode=0
+quitAfterSaveCopyExport=true
+
+[ImageSave]
+translatedScreenshotsFolder=Screenshots
+
+[VideoSave]
+translatedScreencastsFolder=Screencasts

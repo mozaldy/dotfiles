@@ -1,0 +1,5 @@
+[Style]
+DockWidgetDrawFrame=true
+MenuItemDrawStrongFocus=false
+MenuOpacity=50
+SidePanelDrawFrame=true

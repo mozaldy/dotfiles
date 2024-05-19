@@ -1,0 +1,13 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/3123600011_PemrogramanWeb_Cookies&Session-1.pdf
+Name1[$e]=3123600011_PemrogramanWeb_Cookies&Session-1.pdf

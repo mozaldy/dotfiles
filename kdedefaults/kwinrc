@@ -1,0 +1,8 @@
+[TabBox]
+LayoutName=thumbnail_grid
+
+[org.kde.kdecoration2]
+BorderSize=Tiny
+NoPlugin=false
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__Utterly-Round-Dark
